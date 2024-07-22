@@ -33,7 +33,9 @@ This repo gives you a fresh start with class components in Vue 3 based on the aw
 
 ## Getting started
 
-Pretty straighforward. Clone this repository, do an `npm install` and start your vite dev-server with `npm run dev`. Your app should be listening on `localhost:3000`.
+Pretty straighforward. Clone this repository, do an `pnpm install` and start your vite dev-server with `pnpm dev`. Your app should be listening on `localhost:3000`.
+
+Alternatively you can use just `npm install` and `npm run dev` and remove `pnpm-lock.yaml` file.
 
 ## A word on debugging
 
